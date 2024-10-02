@@ -19,5 +19,6 @@ function explode(x){
     return result;
 
 }
-
+const result= explode([6, 'c']);
+console.log(result);
 

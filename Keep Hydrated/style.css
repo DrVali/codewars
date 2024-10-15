@@ -1,0 +1,15 @@
+﻿
+html{
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body{
+	font-size: 3rem;
+     padding: 50px;
+    overflow-x: hidden;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
